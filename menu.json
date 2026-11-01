@@ -22,7 +22,7 @@
         {
           "id": "margherita",
           "name": "Маргарита",
-          "description": "",
+          "description": "сыр, помидор",
           "variants": [{ "id": "std", "label": "", "price": 350 }]
         },
         {
@@ -46,7 +46,7 @@
         {
           "id": "myasnaya",
           "name": "Мясная",
-          "description": "",
+          "description": "говяжий фарш, сыр",
           "variants": [{ "id": "std", "label": "", "price": 350 }]
         },
         {
@@ -112,13 +112,13 @@
         {
           "id": "losos_s_gribami",
           "name": "Лосось с грибами",
-          "description": "",
+          "description": "сыр, лосось, грибы",
           "variants": [{ "id": "std", "label": "", "price": 470 }]
         },
         {
           "id": "kurica_s_avokado",
           "name": "Курица с авокадо",
-          "description": "",
+          "description": "сыр, курица, авакадо",
           "variants": [{ "id": "std", "label": "", "price": 370 }]
         }
       ]
@@ -212,21 +212,33 @@
           "variants": [{ "id": "std", "label": "", "price": 400 }]
         },
         {
-          "id": "miami",
-          "name": "Маями",
-          "description": "Креветки, краб, лосось.",
+          "id": "miami_krab",
+          "name": "Маями с крабом",
+          "description": "кунжут, творожный сыр, огурец, краб, рис.",
           "variants": [{ "id": "std", "label": "", "price": 350 }]
         },
         {
-          "id": "arizona_shrimp",
+          "id": "miami_krevetka",
+          "name": "Маями с креветкой",
+          "description": "кунжут, творожный сыр, огурец, креветка, рис.",
+          "variants": [{ "id": "std", "label": "", "price": 350 }]
+        },
+        {
+          "id": "miami_losos",
+          "name": "Маями с лососем",
+          "description": "кунжут, творожный сыр, огурец, лосось, рис.",
+          "variants": [{ "id": "std", "label": "", "price": 350 }]
+        },
+        {
+          "id": "arizona_krevetka",
           "name": "Аризона с креветкой",
-          "description": "",
+          "description": "творожный сыр, огурец, креветка, рис.",
           "variants": [{ "id": "std", "label": "", "price": 350 }]
         },
         {
-          "id": "arizona_crab",
-          "name": "Аризона с крабом",
-          "description": "",
+          "id": "arizona_losos",
+          "name": "Аризона с лососем",
+          "description": "творожный сыр, огурец, лосось, рис.",
           "variants": [{ "id": "std", "label": "", "price": 350 }]
         }
       ]
@@ -318,7 +330,13 @@
           "name": "Салат с авокадо",
           "description": "",
           "variants": [{ "id": "std", "label": "", "price": 320 }]
-        }
+        },
+        {
+          "id": "salad_baklazhan",
+          "name": "Салат хрустящие баклажаны",
+          "description": "",
+          "variants": [{ "id": "std", "label": "", "price": 320 }]
+        },
       ]
     },
     {

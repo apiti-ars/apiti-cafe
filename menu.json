@@ -336,7 +336,7 @@
           "name": "Салат хрустящие баклажаны",
           "description": "",
           "variants": [{ "id": "std", "label": "", "price": 320 }]
-        },
+        }
       ]
     },
     {

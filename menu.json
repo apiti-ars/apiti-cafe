@@ -426,13 +426,13 @@
         },
         {
           "id": "khinkal_moskovskiy",
-          "name": "Хинкал (московский)",
+          "name": "Хинкал тонкий",
           "description": "",
           "variants": [{ "id": "std", "label": "", "price": 570 }]
         },
         {
           "id": "khinkal_zalushka",
-          "name": "Хинкал (залушка)",
+          "name": "Хинкал галушка",
           "description": "",
           "variants": [{ "id": "std", "label": "", "price": 570 }]
         },

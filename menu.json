@@ -419,12 +419,6 @@
           "variants": [{ "id": "std", "label": "", "price": 250 }]
         },
         {
-          "id": "sweet_roll",
-          "name": "Сладкий ролл",
-          "description": "",
-          "variants": [{ "id": "std", "label": "", "price": 220 }]
-        },
-        {
           "id": "sandwich",
           "name": "Сэндвич",
           "description": "",
@@ -478,6 +472,12 @@
       "id": "desserts",
       "name": "Десерты",
       "items": [
+        {
+          "id": "sweet_roll",
+          "name": "Сладкий ролл",
+          "description": "",
+          "variants": [{ "id": "std", "label": "", "price": 220 }]
+        },
         {
           "id": "donut",
           "name": "Пончик",

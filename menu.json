@@ -296,9 +296,15 @@
           "variants": [{ "id": "std", "label": "", "price": 390 }]
         },
         {
+          "id": "zapechennaya_alyaska",
+          "name": "Запечённая аляска",
+          "description": "лосось, краб, огурец, сливочный сыр, рис, шапочка: моцарелла, майонез, табико",
+          "variants": [{ "id": "std", "label": "", "price": 390 }]
+        },
+        {
           "id": "rumyanyy_zapechennyy",
           "name": "Румяный запечённый",
-          "description": "Креветка, краб, огурец, сливки, сыр, рис, шапочка: моцарелла, майонез, тобико.",
+          "description": "Креветка, краб, огурец, сливочный сыр, рис, шапочка: моцарелла, майонез, тобико.",
           "variants": [{ "id": "std", "label": "", "price": 390 }]
         },
         {
@@ -316,7 +322,7 @@
         {
           "id": "snezhnyy_roll",
           "name": "Ролл снежный",
-          "description": "Огурец, сливки, сыр, креветка, тобико, рис, шапочка: лосось, майонез, васаби.",
+          "description": "Огурец, сливочный сыр, креветка, тобико, рис, шапочка: лосось, майонез, васаби.",
           "variants": [{ "id": "std", "label": "", "price": 390 }]
         }
       ]
@@ -334,6 +340,24 @@
         {
           "id": "salad_baklazhan",
           "name": "Салат хрустящие баклажаны",
+          "description": "",
+          "variants": [{ "id": "std", "label": "", "price": 320 }]
+        },
+        {
+          "id": "salad_cezar_chick",
+          "name": "Салат цезарь с курицей",
+          "description": "",
+          "variants": [{ "id": "std", "label": "", "price": 350 }]
+        },
+        {
+          "id": "salad_cezar_shrimp",
+          "name": "Салат цезарь с креветкой",
+          "description": "",
+          "variants": [{ "id": "std", "label": "", "price": 400 }]
+        },
+        {
+          "id": "salad_greece",
+          "name": "Греческий салат",
           "description": "",
           "variants": [{ "id": "std", "label": "", "price": 320 }]
         }
@@ -548,7 +572,7 @@
           "id": "tea_green",
           "name": "Чай зелёный",
           "description": "",
-          "variants": [{ "id": "std", "label": "", "price": 140 }]
+          "variants": [{ "id": "std", "label": "", "price": 170 }]
         },
         {
           "id": "tea_fruit",
